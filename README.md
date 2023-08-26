@@ -1,2 +1,3 @@
 # Calendario
-Peojeto que formulei para tentar criar um tipo de agenda.
+Projeto que formulei para tentar criar um tipo de agenda.
+Aqui consta o inicio do meu projeto de uma agenda, por enquanto tudo que eu consigo é isto, coloquei o calendário em forma em forma de matriz, um vetor com os dias que tem compromisso, a principio ele é inicializado com 0, e quando a pessoa marca um comprimisso ele recebe valor 1,adiante quando o usuario termina a utilizar a agenda imprimi o calendario novamente com os dias com compromisso na cor vermelha, sinalizando que contém compromisso.Vou procurar melhoro mais adiante, procuro também escreve este mesmo projeto em java, pois é a linguagem que estou estudando agora. Muito obrigado por se interessar em ver meus códigos.
